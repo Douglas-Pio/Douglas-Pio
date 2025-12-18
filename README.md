@@ -6,7 +6,7 @@
 
 ###
 
-<p align="left">- Estudante de Analise e Desenvolvimento de Sistemas<br>- Atualmente estou aprendendo sobre Cybersecurity</p>
+<p align="left">- Estudante de Analise e Desenvolvimento de Sistemas<br>- Atualmente estou aprendendo sobre foco em análise de dados, BI e apoio à tomada de decisão.e</p>
 
 ###
 
