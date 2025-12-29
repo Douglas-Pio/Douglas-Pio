@@ -6,7 +6,7 @@
 
 ###
 
-<p align="left">- Estudante de Analise e Desenvolvimento de Sistemas<br>- Atualmente estou aprendendo sobre foco em análise de dados, BI e apoio à tomada de decisão</p>
+<p align="left">- Estudante de Analise e Desenvolvimento de Sistemas<br>- Atualmente estou aprendendo sobre foco em análise de dados, Power BI , Python e MySQL e apoio à tomada de decisão</p>
 
 ###
 
